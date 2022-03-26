@@ -20,6 +20,9 @@ https://visualgo.net/en
 Leetcode Patterns 
 https://seanprashad.com/leetcode-patterns/
 
+PythonTutor
+https://pythontutor.com/
+
 The Algorithms
 https://github.com/TheAlgorithms
 
