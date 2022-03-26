@@ -2,6 +2,9 @@
 
 I am gonna update this as time progresses, feel free to edit it if you want.
 
+
+
+
 Youtube channels
 -
 WilliamFiset 
@@ -15,6 +18,10 @@ Tim Roughgarden - Advanced algorithm topics
 
 https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/featured
 
+
+Harvard CS50
+
+https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
 
 Useful tools
 -
