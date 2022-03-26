@@ -11,6 +11,10 @@ NeetCode
 https://www.youtube.com/c/NeetCode
 
 
+Tim Roughgarden - Advanced algorithm topics
+
+https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/featured
+
 
 Useful tools
 -
