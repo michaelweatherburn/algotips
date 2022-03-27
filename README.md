@@ -34,6 +34,9 @@ https://seanprashad.com/leetcode-patterns/
 PythonTutor
 https://pythontutor.com/
 
+Dynamic Programming Patterns:
+https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns
+
 The Algorithms
 https://github.com/TheAlgorithms
 
