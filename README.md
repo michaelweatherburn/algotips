@@ -42,6 +42,11 @@ https://github.com/TheAlgorithms
 
 
 
+Algorithms by Jeff Erickson - Good for approaching leetcode medium and hard
+http://jeffe.cs.illinois.edu/teaching/algorithms/
+
+
+
 
 
 
