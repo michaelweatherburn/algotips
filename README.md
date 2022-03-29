@@ -47,7 +47,7 @@ http://jeffe.cs.illinois.edu/teaching/algorithms/
 
 
 
-More Dynamic Programming \\
+More Dynamic Programming \n
 https://patterns.eecs.berkeley.edu/?page_id=416
 
 
