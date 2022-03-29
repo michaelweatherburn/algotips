@@ -19,7 +19,7 @@ Tim Roughgarden - Advanced algorithm topics\
 https://www.youtube.com/channel/UCcH4Ga14Y4ELFKrEYM1vXCg/featured
 
 
-Harvard CS50\
+Harvard CS50 \
 
 https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
 
