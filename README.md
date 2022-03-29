@@ -28,7 +28,7 @@ Useful tools
 Visualgo\
 https://visualgo.net/en
 
-Leetcode Patterns \
+Leetcode Patterns\
 https://seanprashad.com/leetcode-patterns/
 
 PythonTutor\
